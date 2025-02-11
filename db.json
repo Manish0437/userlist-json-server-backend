@@ -1,0 +1,88 @@
+{
+    "users": [
+      {
+        "id": "b4710552-e070-4686-bb1b-e4b9a95079d9",
+        "firstname": "James",
+        "lastname": "clear",
+        "email": "jamesclear@gmail.com",
+        "department": "Human Resources"
+      },
+      {
+        "id": "f2174aac-2082-4e21-a154-ba22451e2dde",
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "johndoe@gmail.com",
+        "department": "Information"
+      },
+      {
+        "id": "76f14b59-4405-419e-bb06-9443e260e285",
+        "firstname": "Jesse",
+        "lastname": "pink man",
+        "email": "jessepinkman@gmail.com",
+        "department": "science"
+      },
+      {
+        "id": "ecfe486d-584f-4547-8047-6a52dddd1715",
+        "firstname": "robert",
+        "lastname": "williams",
+        "email": "robertwilliams@gmail.com",
+        "department": "marketing"
+      },
+      {
+        "id": "76ff4599-20af-4d20-86b6-d9fc0a42e7a7",
+        "firstname": "jack",
+        "lastname": "reacher",
+        "email": "jackreacher@gmail.com",
+        "department": "security"
+      },
+      {
+        "id": "a09aaad3-dcac-4bf4-a12e-de678702b189",
+        "firstname": "walter",
+        "lastname": "whiteman",
+        "email": "walterwhiteman@gmail.com",
+        "department": "chemistry"
+      },
+      {
+        "id": "a46d727b-32af-4a69-a902-b948ddc6f12a",
+        "firstname": "george",
+        "lastname": "cooper",
+        "email": "georgecooper@gmail.com",
+        "department": "Education"
+      },
+      {
+        "id": "03810f95-4df1-4233-9e33-09885d63d7cd",
+        "firstname": "henry",
+        "lastname": "gerald",
+        "email": "henrygerald@gmail.com",
+        "department": "sports"
+      },
+      {
+        "id": "632e263e-c05b-4e00-867e-04fa856d4aad",
+        "firstname": "Johnny",
+        "lastname": "test",
+        "email": "johnnytest@gmail.com",
+        "department": "chemistry"
+      },
+      {
+        "id": "d46b640c-74ed-4c08-9858-043e61e2ca0b",
+        "firstname": "benjman",
+        "lastname": "tennyson",
+        "email": "benjmantennyson@gmail.com",
+        "department": "sports"
+      },
+      {
+        "id": "cddb744b-ba99-46b9-a63a-dd34030aee61",
+        "firstname": "harry",
+        "lastname": "james",
+        "email": "harryjames@gmail.com",
+        "department": "teaching"
+      },
+      {
+        "id": "5a840ce3-4ad9-4479-83a9-2422b01e9fcf",
+        "firstname": "francis",
+        "lastname": "petro",
+        "email": "francispetro@gmail.com",
+        "department": "Art"
+      }
+    ]
+  }
